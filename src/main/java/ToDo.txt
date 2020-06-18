@@ -1,0 +1,10 @@
+Chcemy zrobic program, ktory sprawdza i podkresla bledy w kodzie:
+-powinien rozpoznawac poprawna skladnie metody main
+-powinien znac i rozpoznawac slowa kluczowe
+-powinien rozpoznawac skladnie deklarowania zmiennej
+-powinien rozpoznawac nieprawidlowa ilosc klamr
+-powinien rozpoznawac skladnie drukowania tekstu println
+-powinien rozpoznawac skladnie laczenia tekstu ze zmienna, np: zmienna + "tekst" + zmienna
+-powinien rozpoznawac skladnie inicializacji zmiennej
+-powinien rozpoznawac nowe klase i tworzenie obiektów z tych klas
+-powinien rozpoznac poprawna skladnie konstruktora
